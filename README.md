@@ -9,7 +9,10 @@ After minimal tuning, I was able to get the model to predict the bird's type wit
 ## Data
 I have used the following chrome extention to download the data from google images. [Fatkun Batch Download Image](https://chrome.google.com/webstore/detail/fatkun-batch-download-ima/nnjjahlikiabnchcpehcpkdeckfgnohf?hl=en)
 
-## Config
-I have used google colab for this project as it makes the gpu configuration far easier.
+## Configuration
+**Google Colab** has been used for this project as it has following features:
+- Zero configuration required
+- Free access to GPUs
+- Easy sharing.
 
 
